@@ -27,6 +27,7 @@
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />
 
 <br />
+<br />
 
 ## 📕 Latest Blog Posts
 
@@ -43,6 +44,7 @@
 - [My CPU Collection](https://medium.com/@mukireus/my-cpu-collection-f24f230ff2e1?source=rss-db21aee611de------2)
 <!-- MEDIUM:END -->
 
+<br />
 
 [linkedin]: https://linkedin.com/in/muhammetomer
 [twitter]: https://twitter.com/mukireuss
@@ -50,5 +52,4 @@
 [behance]: https://www.behance.net/mukireus
 [dribbble]: https://dribbble.com/mukireus
 
-
-
+[![Mukireus's github stats](https://github-readme-stats.vercel.app/api?username=mukireus&show_icons=true)](https://github.com/mukireus/github-readme-stats)
