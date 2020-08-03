@@ -21,4 +21,9 @@
 ### Medium
 
 <!-- MEDIUM:START -->
+- [Baştan Sona Flutter Projesi: Ezan Vakti (Part 1)](https://medium.com/flutter-t%C3%BCrkiye/ba%C5%9Ftan-sona-flutter-projesi-ezan-vakti-part-1-e03fc991d4c7?source=rss-db21aee611de------2)
+- [Mobil Dünyada Extension](https://medium.com/hardwareandro/mobil-d%C3%BCnyada-extension-fec7aa75d5d1?source=rss-db21aee611de------2)
+- [Flutter: Clean Code](https://medium.com/flutter-t%C3%BCrkiye/flutter-clean-code-c52ff8759c0e?source=rss-db21aee611de------2)
+- [Flutter UI Login Screen Challenge](https://medium.com/flutter-t%C3%BCrkiye/flutter-ui-login-screen-challenge-af6df0356300?source=rss-db21aee611de------2)
+- [My CPU Collection](https://medium.com/@mukireus/my-cpu-collection-f24f230ff2e1?source=rss-db21aee611de------2)
 <!-- MEDIUM:END -->
