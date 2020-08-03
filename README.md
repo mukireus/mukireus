@@ -1,6 +1,6 @@
 ### the future is now
 
-<img src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif">
+<img width="720px" src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif">
 
 ### Connect with me:
 
