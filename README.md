@@ -1,16 +1,31 @@
 ### the future is now
 
-<table>
-  <tr>
-   <td align="center"><a href="https://www.linkedin.com/in/muhammetomer/"><img src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" height="25px;" alt=""/></a></td> 
-   <td align="center"><a href="https://medium.com/@mukireus"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" height="25px;" alt=""/><sub></a></td> 
-    <td align="center"><a href="https://twitter.com/mukireuss"><img src="https://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png" height="25px;" alt=""/></a></td> 
-  <td align="center"><a href="https://dribbble.com/mukireus"><img src="https://cdn0.iconfinder.com/data/icons/brands-flat-2/187/dribbble-social-network-brand-logo-512.png" height="25px;" alt=""/></a></td> 
-    <td align="center"><a href="https://www.behance.net/mukireus"><img src="https://pluspng.com/img-png/behance-vector-png-behance-800.png" height="20px;" alt=""/></a></td> 
- </tr>
-</table><img src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif">
+<img src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif">
+
+### Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="twitter | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 
 <br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<img align="left" alt="Adobe Photoshop CC" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/616px-Adobe_Photoshop_CC_icon.svg.png" />
+<img align="left" alt="Adobe Lightroom Classic CC" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/512px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png" />
+<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
+<img align="left" alt="Zeplin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" />
+<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />
+
 <br />
 
 ## 📕 Latest Blog Posts
@@ -22,3 +37,13 @@
 
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
+
+
+[linkedin]: https://linkedin.com/in/muhammetomer
+[twitter]: https://twitter.com/mukireuss
+[medium]: https://medium.com/@mukireus
+[behance]: https://www.behance.net/mukireus
+[dribbble]: https://dribbble.com/mukireus
+
+
+
