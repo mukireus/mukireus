@@ -37,11 +37,11 @@
 ### Medium
 
 <!-- MEDIUM:START -->
+- [Flutter Engage Özeti](https://medium.com/flutter-t%C3%BCrkiye/flutter-engage-%C3%B6zeti-b515520ad212?source=rss-db21aee611de------2)
+- [Flutter:  Clean Code 2](https://medium.com/flutter-t%C3%BCrkiye/flutter-clean-code-2-fb7906b06b07?source=rss-db21aee611de------2)
 - [Flutter: Native Kamera Yönlendirme ve Galeriden Fotoğraf Seçme](https://medium.com/hardwareandro/flutter-native-kamera-y%C3%B6nlendirme-ve-galeriden-foto%C4%9Fraf-se%C3%A7me-5f9b1e77244d?source=rss-db21aee611de------2)
 - [Baştan Sona Flutter Projesi: Ezan Vakti (Part 1)](https://medium.com/flutter-t%C3%BCrkiye/ba%C5%9Ftan-sona-flutter-projesi-ezan-vakti-part-1-e03fc991d4c7?source=rss-db21aee611de------2)
 - [Mobil Dünyada Extension](https://medium.com/hardwareandro/mobil-d%C3%BCnyada-extension-fec7aa75d5d1?source=rss-db21aee611de------2)
-- [Flutter: Clean Code](https://medium.com/flutter-t%C3%BCrkiye/flutter-clean-code-c52ff8759c0e?source=rss-db21aee611de------2)
-- [Flutter UI Login Screen Challenge](https://medium.com/flutter-t%C3%BCrkiye/flutter-ui-login-screen-challenge-af6df0356300?source=rss-db21aee611de------2)
 <!-- MEDIUM:END -->
 
 <br />
