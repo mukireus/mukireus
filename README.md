@@ -1,7 +1,4 @@
-### the future is now
-
-<img width="720px" src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif">
-
-<br />
+# Hi! I'm Muhammet OMER
+I am working mostly with Flutter and Dart. I'm hoping to contribute to open source projects, packages and help out the Flutter community
 
 ![Metrics](/github-metrics.svg)
